@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+From The Odin Project's [curriculum](http://www.theodinproject.com).
